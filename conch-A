@@ -1,0 +1,41 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "有效",
+
+	"channels": [
+
+		{
+			"name":"星空卫视",
+			"url": "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
+		},
+{
+			"name":"BBC",
+			"url": "http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8"
+		},
+{
+			"name":"KCTV | SD",
+			"url": "http://122.202.129.136:1935/live/ch5/playlist.m3u8"
+		},
+{
+			"name":"TV CHOSUN | HD",
+			"url": "http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8"
+		},
+{
+			"name":"EBS | SD",
+			"url": "http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8"
+		},
+{
+			"name":"EBS plus 1 | SD",
+			"url": "http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8"
+		},
+{
+			"name":"mbc",
+			"url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8?site=speedtv&ch=live07&pm=P"
+		},
+{
+			"name":"EBS e | SD",
+			"url": "http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8"
+		},
+{
+			"name":"EBS Kids | SD",
+			"url": "http://ebsonair.e
